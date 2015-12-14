@@ -1,0 +1,128 @@
+/*home page*/
+
+.container{width: 100%;
+height:900px;
+padding: 0px;
+background-color: black}
+
+.nav-font-color{color:#fd9268;
+	margin-left: 30px;
+
+}
+.nav {padding-left: 100px;
+	margin-left: 30px;}
+.navbar{margin-bottom: 0px}
+
+h1{font-size:40px;
+	padding-top: 200px;
+	margin: 0px;
+	color:white;
+	text-align: center;
+	font-family:"Avenir Next"
+}
+
+h2{font-size:20px ;
+	color:white;
+	text-align: center;
+	font-family:"Avenir Next"
+}
+span{font-size:20px ;
+	color:white;	
+	padding: 0.5em 2em 0.5em 2em;
+	border: solid 1px white;
+	font-family:"Avenir Next"
+	}
+.col-md-12{padding: 0px;
+	background-image: url("../images/bigpic.jpg");
+	background-repeat:no-repeat;
+	background-position: center;
+	background-size:cover;
+	width: 100%;
+	height: 800px
+}
+
+.follow{width: 100%;	
+	padding-bottom: 20px;
+	background-color: black;
+	text-align: center
+	}
+	h3{color:#337ab7;
+		margin-top:0px;padding-top: 30px;
+		font-size: 20px;
+		font-family:"Avenir Next";
+		
+}
+.fa{width:50px}
+
+/*login page*/
+
+.closeclose{margin-right: 30px;
+	margin-top: -20px;
+	
+	opacity: 1}
+
+.col-md-13{
+	padding: 0px;
+	background-image: url("../images/bigpic_shadow.jpg");
+	background-repeat: repeat;
+	
+	
+	width: 100%;
+	height:900px;
+}
+h4{font-size: 20px;
+color: black;
+margin-left: auto;
+margin-right: auto;}
+
+.signin{opacity: 0.6;
+text-align: center;
+width: 350px;
+height: 300px;
+background-color: white;
+margin-left: auto;
+margin-right: auto;
+padding-top: 50px;
+
+}
+.input2{width: 200px;
+margin-right: auto;
+margin-left: auto}
+
+.btn-size{width: 130px;
+margin-left: auto;
+margin-right: auto;}
+
+h6{font-size:40px;
+	padding-top: 50px;
+	margin: 0px;
+	color:white;
+	text-align: center;
+	font-family:"Avenir Next"
+}
+
+.btn-positon{
+	float: center;
+	}
+
+
+#billsdiv,#billsdiv_2,#billsdiv_3{
+	padding-top: 20px;
+	height: 450px;
+	margin-left: 50px;
+	width: 40%;
+	color: white;
+	background-color: grey;
+	margin-bottom: 5px;
+	opacity: 0.6
+	}
+#billsdiv_4,#billsdiv_5{height:300px;
+	margin-left: 50px;
+	width: 40%;
+	color: white;
+	background-color: grey;
+	margin-bottom: 5px;
+	opacity: 0.6}
+
+
+
